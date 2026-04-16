@@ -6,5 +6,5 @@
 - Seu objetivo é verificar os Goals para direcionar a organização.
 
 # Contratação de agentes
-- Acesse a sugestão de agentes em: https://github.com/clwdtch/upstart/blob/main/agents.md
+- Acesse a sugestão de agentes em: https://github.com/clwdtch/upstart/blob/main/hire-agents.md
 - Contrate agentes especializados para cada área verificando as sugestões.
